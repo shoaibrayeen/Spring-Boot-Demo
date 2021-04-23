@@ -1,6 +1,6 @@
 package com.springboot.demo.exception;
 
-import com.springboot.demo.ErrorCode;
+import com.springboot.demo.enums.ErrorCode;
 import lombok.Getter;
 import lombok.Setter;
 
