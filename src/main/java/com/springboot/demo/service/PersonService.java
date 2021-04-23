@@ -1,6 +1,6 @@
 package com.springboot.demo.service;
 
-import com.springboot.demo.ErrorCode;
+import com.springboot.demo.enums.ErrorCode;
 import com.springboot.demo.constants.Constants;
 import com.springboot.demo.exception.CustomException;
 import com.springboot.demo.model.BaseResponse;
