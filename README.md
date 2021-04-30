@@ -5,6 +5,7 @@ Prerequisite
 - Java 8
 - Spring Boot 2.2.5
 - PostgreSQL for Database
+- Maven 
 
 Clone the repository
 ```sh
@@ -13,7 +14,7 @@ Clone the repository
 
 - Create a database name - `amdb` on your local machine.
 
-Now Use Postman to make GET or POST Request
+Now Use Postman to make API requests
 
 ### License
 [![Apache License](https://img.shields.io/badge/license-Apache-brightgreen.svg)](http://www.apache.org/licenses/)
